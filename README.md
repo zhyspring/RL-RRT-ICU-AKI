@@ -1,6 +1,16 @@
 # RL-RRT-ICU-AKI
 the reinforcement learning in RRT operation optimation of ICU-AKI patients (in MIMIC and eICU)
 
+# Pipeline
+
+# Code Introduction
+
+## Data Process
+
+## Model Training
+
+## Validation and Utility
+
 ## file control
 
 ### Pre content
@@ -16,4 +26,6 @@ get the max_aki_level during the ICU time for each stay_id
 
 #### v3_action_status_seq
 get the time and hr before ICU 24h and During ICU. With the Time granularity of 6h.
+
+
 
